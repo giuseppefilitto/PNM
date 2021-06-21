@@ -118,3 +118,6 @@ Data
 
 #mac user
 .DS_Store
+
+#vscode
+.vscode
